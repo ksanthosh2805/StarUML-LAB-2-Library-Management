@@ -27,32 +27,38 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 ### UML Diagrams:
 #### USE CASE DIAGRAM:
-<img width="1147" height="925" alt="image" src="https://github.com/user-attachments/assets/19fe181a-2f73-463c-b3fe-3ccee0f8f877" />
+
+![UseCaseDiagram1](https://github.com/user-attachments/assets/f2a9c303-ce1b-4c49-a94a-a3f798357623)
 
 <br>
 
 #### CLASS DIAGRAM:
-<img width="832" height="597" alt="image" src="https://github.com/user-attachments/assets/83bbf7f5-e47f-44ef-b380-875308cb4025" />
+![ClassDiagram1](https://github.com/user-attachments/assets/5bf15fd5-30fb-4930-96d7-182e989857de)
+
 
 <br>
 
 #### SEQUENCE DIAGRAM:
-<img width="1225" height="947" alt="image" src="https://github.com/user-attachments/assets/b5d05f7a-f2cb-4d56-9c40-384e15abf178" />
+![SequenceDiagram1](https://github.com/user-attachments/assets/845a3f21-526d-4c30-a352-d6f7b70be5d4)
+
 
 <br>
 
 #### COMMUNICATION DIAGRAM:
-<img width="881" height="756" alt="image" src="https://github.com/user-attachments/assets/d6eeed0f-bfa0-44d0-9edb-b2afa8968d0b" />
+![CommunicationDiagram1](https://github.com/user-attachments/assets/bda673ea-aa2d-454d-bd11-fda98d8bdc17)
+
 
 <br>
 
 #### ACTIVITY DIAGRAM:
-<img width="1214" height="939" alt="image" src="https://github.com/user-attachments/assets/f9157bd3-29d2-4d6f-a18f-2ce66fecd39c" />
+![ActivityDiagram1](https://github.com/user-attachments/assets/d6d2087b-5679-465c-b7b5-6d7f4a3835b1)
+
 
 <br>
 
 #### PACKAGE DIAGRAM:
-<img width="1197" height="903" alt="image" src="https://github.com/user-attachments/assets/5d279022-34f3-4c13-a810-dee7406eaa10" />
+![PackageDiagram1](https://github.com/user-attachments/assets/5600a382-6f34-4f17-96d4-41a83417b8f4)
+
 
 <br>
 ### RESULT:
